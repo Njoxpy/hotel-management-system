@@ -1,0 +1,10 @@
+demo.cpp
+hotel.exe
+*.exe
+launch.json
+*.json
+*.xml
+*.iml
+modules.xml
+settings.json
+vscode\c_cpp_properties.json
